@@ -33,7 +33,7 @@ class Livro:
         self.num_exemplares = exemplares
         self.qtd_emprestados = qtd
 
-        if
+        if.
 
 titulo = input("Qual título do livro?")
 autor = input("Qual nome do autor?")
