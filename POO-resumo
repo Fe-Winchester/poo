@@ -1,0 +1,5 @@
+"""
+POO- estilo de programação que enfatiza a modelagem computacional de objetos do mundo real para resolver um problema
+"""
+#classes-é uma representação do mundo real para objetos similares(mesmas características e comportamentos) - ex.:mamíferos
+#objeto - um exemplo de determinada classe - exe: gato,cachorro,golfinho.
